@@ -1,0 +1,39 @@
+
+div {
+    
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 800px;
+    margin-left: 800px;
+}
+
+h1 {
+color: blue;    
+text-align: center;
+margin-top: 200px;
+margin-bottom: 200px;
+margin-right: 100px;
+margin-left: 100px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: right;
+    text-decoration: none;
+  }
+
+body {
+    background-image: url("denemek%20i%C3%A7in.webp");
+    
+  }
+
+  h3 {
+    color: blue;    
+    text-align: center;
+    }
